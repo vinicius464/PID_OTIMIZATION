@@ -8,12 +8,12 @@
 
 #Passos:
 
-*Informar os zeros da planta.    Ex: "0" ou "1,2".\
-*Informar os polos da planta.    Ex: "-1","-1,-2" ou "-1-1j,-1+1j".\
-*Informar o ganho da planta.     Ex: "10".\
+*Informar os zeros da planta.                                                                         Ex: "" ou "-1,-2".\
+*Informar os polos da planta.                                                                         Ex: "-1","-1,-2" ou "-1-1j,-1+1j".\
+*Informar o ganho da planta.                                                                          Ex: "10".\
 *Informar se o sistema de ideal é de primeira ou segunda ordem.\
-*Caso o sistema ideal seja de primerira ordem, informar tempo de assentamento.\
-*Caso o sistema ideal seja de segunda ordem, informar tempo de assentamento e maximo sobressinal.\
+*Caso o sistema ideal seja de primerira ordem, informar tempo de assentamento em segundos.            EX: "5"\
+*Caso o sistema ideal seja de segunda ordem, informar tempo de assentamento e maximo sobressinal.     Ex: "5,0.2"\
 *Escolher se quer utilizar um controlador PI ou PID\
 *Analisar resultado. Conferir grafico da saida junto a margem de ganho e margem de fase.
 
