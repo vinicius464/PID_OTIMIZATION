@@ -2,9 +2,9 @@
 
 #Requisitos:
 
-*Ser um sistema sem atraso de transporte\n
-*Ter a função de transferencia da planta em função dos polos e zeros\n
-*Ter seus requisitos de projeto em relação a maximo sobressinal e tempo de assentamento\n\n
+*Ser um sistema sem atraso de transporte\
+*Ter a função de transferencia da planta em função dos polos e zeros\
+*Ter seus requisitos de projeto em relação a maximo sobressinal e tempo de assentamento\
 
 #Passos:
 
